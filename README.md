@@ -1,4 +1,4 @@
-# docker-and-kubernetes-101
+# 入門Docker & Kubernetes
 
 ## はじめに
 
